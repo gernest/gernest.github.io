@@ -2,6 +2,7 @@
 
 Section  | Details
 ----|----------------
+me | ![image of gernest](https://avatars1.githubusercontent.com/u/6039952?v=3&s=460)
 name | Geofrey Ernest
 nick name | gernest
 profession | programmer
