@@ -1,6 +1,6 @@
 ## Welcome
 
-xxx | xxx
+Section  | Details
 ----|----------------
 name | Geofrey Ernest
 nick name | gernest
