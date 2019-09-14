@@ -5,10 +5,20 @@
     <link>/</link>
     <description>Recent content on Geofrey Ernest Katesigwa on the web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Sep 2019 10:10:22 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2019 10:35:57 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 2</title>
+      <link>/post/week-2/</link>
+      <pubDate>Sat, 14 Sep 2019 10:35:57 +0300</pubDate>
+      
+      <guid>/post/week-2/</guid>
+      <description>This week has slowed down a little bit. It is more a research week,I wasn&amp;rsquo;t able to do what I thought I would do, like working on hoodie because I just realized I might have even better ways to achieve my goals.
+Work No PR was submitted to the tyk gateway this week, however I have been onto some cool stuff that might prove useful to the gateway someday.</description>
+    </item>
     
     <item>
       <title>Week 1</title>
