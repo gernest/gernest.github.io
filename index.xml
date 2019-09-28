@@ -5,10 +5,21 @@
     <link>/</link>
     <description>Recent content on Geofrey Ernest Katesigwa on the web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Sep 2019 10:35:57 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 09:37:36 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week3 and 4</title>
+      <link>/post/week_3_and_4/</link>
+      <pubDate>Sat, 28 Sep 2019 09:37:36 +0300</pubDate>
+      
+      <guid>/post/week_3_and_4/</guid>
+      <description>Two weeks have passed already. I used to believe I can handle having a day job and get time to explore my other open source interests, which has proved to be hard.
+I&amp;rsquo;m glad I&amp;rsquo;m working fulltime on open source project though, so I have decided to fully shift my focus on the tyk gateway
+This probably marks the end on updates on other projects I have been working on on my free time.</description>
+    </item>
     
     <item>
       <title>Week 2</title>
